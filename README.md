@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BCA in chandigarh
 - 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me ...
-- 😁 Language i know : c, c++
+- 😁 Language i know : c, c++, html, css, jv cript
 - 😉 Currently learing HTML
 
 <!---
