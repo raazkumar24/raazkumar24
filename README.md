@@ -2,8 +2,9 @@
 <h3 align="center">Frontend Developer | Aspiring Full-Stack Developer | Passionate about Creative Web Solutions</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/1c899ea1ef4e07fdbc90e07b54d8be1ffef643a1a0acb8411f399b04c8c1b4e3/68747470733a2f2f692e696d6775722e636f6d2f533847494b68782e676966" alt="Coding Animation" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
+
 
 ---
 
