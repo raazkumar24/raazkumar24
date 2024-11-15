@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer | Aspiring Full-Stack Developer | Passionate about Creative Web Solutions</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37d66a-a885-4b0a-8937-3f2f56b47e1d.gif" alt="Coding Animation" width="300"/>
+  <img src="https://camo.githubusercontent.com/1c899ea1ef4e07fdbc90e07b54d8be1ffef643a1a0acb8411f399b04c8c1b4e3/68747470733a2f2f692e696d6775722e636f6d2f533847494b68782e676966" alt="Coding Animation" width="500"/>
 </p>
 
 ---
@@ -36,7 +36,8 @@
 <h2 align="center">📈 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raazkumar24&show_icons=true&theme=radical" alt="Raj's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raazkumar24&theme=radical" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raazkumar24&theme=radical" alt="GitHub Streak Stats"/>
 </p>
 
 ---
