@@ -54,7 +54,7 @@
   <a href="https://x.com/RajWeb24" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.instagram.com/raaz_kumar" target="_blank">
+  <a href="https://www.instagram.com/raaz__kumar_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100048921287040" target="_blank">
